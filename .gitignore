@@ -1,0 +1,25 @@
+/LearningCSharp/LearningCSharp.sln
+# === .NET build artifacts ===
+bin/
+obj/
+
+# === User-specific files ===
+*.user
+*.suo
+
+# === Rider ===
+.idea/
+*.DotSettings.user
+
+# === VS Code (in case) ===
+.vscode/
+
+# === ASP.NET Secrets (optional) ===
+**/secrets.json
+
+# === Logs ===
+*.log
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
